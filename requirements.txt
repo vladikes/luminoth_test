@@ -1,1 +1,6 @@
+tensorflow==1.15.0
 luminoth
+pathlib
+numpy
+pytest
+pytest-benchmark
